@@ -5,6 +5,7 @@ This program is a simple music player coded in Java. It uses the external java l
 of information from a song, and JLayer, a library that can decode/play/convert songs.
 
 Classes:
+
 MP3Driver.java - The driver class that integrates all other necessary classes/components to run the MP3Player. It takes in a directory for music, and provides various commands.
 
 Song.java - A class that makes up a Song Object, which takes a song title, an artist, and the actual file for the song.
