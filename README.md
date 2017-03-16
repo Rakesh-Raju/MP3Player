@@ -6,11 +6,17 @@ of information from a song, and JLayer, a library that can decode/play/convert s
 
 Classes:
 MP3Driver.java - The driver class that integrates all other necessary classes/components to run the MP3Player. It takes in a directory for music, and provides various commands.
-\nSong.java - A class that makes up a Song Object, which takes a song title, an artist, and the actual file for the song.
+
+Song.java - A class that makes up a Song Object, which takes a song title, an artist, and the actual file for the song.
+
 Indexer.java - A class that determines the index of a song name in the ArrayList passed in as a parameter.
+
 ByArtistComparator.java - A class that compares the artists of two different songs
+
 ByTitleComparator.java - A class that compares the titles of two different songs
+
 ListToArray.java - A class that converts an ArrayList to an Object Array
+
 MP3Retriever.java - A class that gets all the MP3 files from the provided directory.
 
 Usage:
