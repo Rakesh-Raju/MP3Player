@@ -1,8 +1,7 @@
 MP3Player
 --------
 
-This program is a simple music player coded in Java. It uses the external java libraries JAudioTagger, a library that can extract different pieces 
-of information from a song, and JLayer, a library that can decode/play/convert songs.
+This program is a simple music player coded in Java. It uses the external java libraries JAudioTagger, a library that can extract different pieces of information from a song, and JLayer, a library that can decode/play/convert songs.
 
 
 Classes:
@@ -13,11 +12,11 @@ Song.java - A class that makes up a Song Object, which takes a song title, an ar
 
 Indexer.java - A class that determines the index of a song name in the ArrayList passed in as a parameter.
 
-ByArtistComparator.java - A class that compares the artists of two different songs
+ByArtistComparator.java - A class that compares the artists of two different songs.
 
-ByTitleComparator.java - A class that compares the titles of two different songs
+ByTitleComparator.java - A class that compares the titles of two different songs.
 
-ListToArray.java - A class that converts an ArrayList to an Object Array
+ListToArray.java - A class that converts an ArrayList to an Object Array.
 
 MP3Retriever.java - A class that gets all the MP3 files from the provided directory.
 
