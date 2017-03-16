@@ -21,7 +21,9 @@ ListToArray.java - A class that converts an ArrayList to an Object Array
 MP3Retriever.java - A class that gets all the MP3 files from the provided directory.
 
 Usage:
-1.Find a directory of music, and copy the path. 
+
+1. Find a directory of music, and copy the path. 
+
 WARNING! Only songs with valid tags (such as music purchased from the iTunes store) will work. Music downloaded from YouTube will not work.
 
 2. Run MP3Driver.java, making sure that the external libraries mentioned before are in the same directory.
