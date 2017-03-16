@@ -27,6 +27,9 @@ WARNING! Only songs with valid tags (such as music purchased from the iTunes sto
 
 3. When the prompt comes up, simply enter the directory path for the music, and used the buttons on the window to navigate the system.
 
+OR
+For your convenience, simply run MP3Player.jar!
+
 Author:
 Rakesh Raju
 12/7/16
