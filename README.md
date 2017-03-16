@@ -22,13 +22,13 @@ MP3Retriever.java - A class that gets all the MP3 files from the provided direct
 
 Usage:
 
-1. Find a directory of music, and copy the path. 
+1.Find a directory of music, and copy the path. 
 
 WARNING! Only songs with valid tags (such as music purchased from the iTunes store) will work. Music downloaded from YouTube will not work.
 
-2. Run MP3Driver.java, making sure that the external libraries mentioned before are in the same directory.
+2.Run MP3Driver.java, making sure that the external libraries mentioned before are in the same directory.
 
-3. When the prompt comes up, simply enter the directory path for the music, and used the buttons on the window to navigate the system.
+3.When the prompt comes up, simply enter the directory path for the music, and used the buttons on the window to navigate the system.
 
 OR
 For your convenience, simply run MP3Player.jar!
